@@ -23,6 +23,9 @@ https://assetstore.unity.com/packages/tools/integration/game-master-tool-extende
 RPG builder is pretty cool
 https://assetstore.unity.com/packages/tools/game-toolkits/rpg-builder-177657?aid=1011liTo7&utm_source=thmsv&utm_campaign=RPGBuilder
 
+Those might be overkill but I already own them. I've also got a few grid and hex systems that I've used and DarkRift2 Networking looks pretty rad.
+https://assetstore.unity.com/publishers/6783
+
 Other Things I Have
 -------------------
 
@@ -41,4 +44,29 @@ I have a license for this thing. It's crazy. I haven't used it much but it's a g
 
 and MUCH MUCH MORE. I don't have time to list it all now. We can talk about it more if people are interested and hop on the Discord. I just wanted to get a place to put data and a chat server set up to guage people's interest.
 
+Things I Would Like to Talk About
+---------------------------------
+
+* What system or game?
+* What should gameplay look like?
+* Who wants to GM?
+* How important is crafting?
+* Probably we should hook it to GPT3. I've got text to speech and speech to text. Weird auto-npcs sound fun.
+* MVP
+  - Persistent / portable character creation
+  - Generate dungeon 
+  - Party can group and do random forrest fights without GM for loot and exp
+  - Town with essential services
+  - GM can outline adventure in general and specific easily without code
+  - Spawn into dungeon with GM supervising
+  - Spawn monsters, traps, items
+  - Boss fight
+  - Assign loot and skill points 
+  - Chat in game
+  - GM can interrupt gameplay, alter stats of characters, NPCs, or enemys
+  - GM can place enemies or NPCs
+  - GM can communicate privately
+  - GM can teleport players to a pocket dimension
+  - GM can pause game
+  - Players can Pause game
 Cheers!
