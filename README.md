@@ -68,5 +68,12 @@ Things I Would Like to Talk About
   - GM can communicate privately
   - GM can teleport players to a pocket dimension
   - GM can pause game
-  - Players can Pause game
+  - Players can Pause game with a vote or skip AFK player (WHERE ARE THE CHEEEETOOOOOOS)
+
+Blue Sky Crazy Ideas
+--------------------
+* Store world and characters on the blockchain
+* Portable character and world format with function for adaptors to fork or port them to future games or other worlds with GM discretion on how items, skills, or whatever get translated in forked game.
+* 
+
 Cheers!
