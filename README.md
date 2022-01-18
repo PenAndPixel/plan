@@ -75,6 +75,7 @@ Blue Sky Crazy Ideas
 * Store world and characters on the blockchain
 * Portable character and world format with function for adaptors to fork or port them to future games or other worlds with GM discretion on how items, skills, or whatever get translated in forked game.
   - https://book.keybase.io/guides/proof-integration-guide
-
+* Dump generated worlds and dungeons to GIS tiles 
+  - Simple web based map and adventure editor using existing browser map tools
 
 Cheers!
