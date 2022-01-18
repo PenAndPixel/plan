@@ -18,4 +18,6 @@ Other Things I Have
 Fantasy Creatures Volume 1-3
 https://assetstore.unity.com/packages/3d/characters/creatures/heroic-fantasy-creatures-full-pack-volume-1-5730
 
+and MUCH MUCH MORE. I don't have time to list it all now. We can talk about it more if people are interested and hop on the Discord. I just wanted to get a place to put data and a chat server set up to guage people's interest.
 
+Cheers!
