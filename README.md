@@ -52,23 +52,29 @@ Things I Would Like to Talk About
 * Who wants to GM?
 * How important is crafting?
 * Probably we should hook it to GPT3. I've got text to speech and speech to text. Weird auto-npcs sound fun.
-* MVP
-  - Persistent / portable character creation
-  - Generate dungeon 
-  - Party can group and do random forrest fights without GM for loot and exp
-  - Town with essential services
-  - GM can outline adventure in general and specific easily without code
-  - Spawn into dungeon with GM supervising
-  - Spawn monsters, traps, items
-  - Boss fight
-  - Assign loot and skill points 
-  - Chat in game
-  - GM can interrupt gameplay, alter stats of characters, NPCs, or enemys
-  - GM can place enemies or NPCs
-  - GM can communicate privately
-  - GM can teleport players to a pocket dimension
-  - GM can pause game
-  - Players can Pause game with a vote or skip AFK player (WHERE ARE THE CHEEEETOOOOOOS)
+* Legend of the Red Dragon
+* Zork
+* MUD
+
+
+MVP
+---
+- Persistent / portable character creation
+- Generate dungeon 
+- Party can group and do random forrest fights without GM for loot and exp
+- Town with essential services
+- GM can outline adventure in general and specific easily without code
+- Spawn into dungeon with GM supervising
+- Spawn monsters, traps, items
+- Boss fight
+- Assign loot and skill points 
+- Chat in game
+- GM can interrupt gameplay, alter stats of characters, NPCs, or enemys
+- GM can place enemies or NPCs
+- GM can communicate privately
+- GM can teleport players to a pocket dimension
+- GM can pause game
+- Players can Pause game with a vote or skip AFK player (WHERE ARE THE CHEEEETOOOOOOS)
 
 Blue Sky Crazy Ideas
 --------------------
