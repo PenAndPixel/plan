@@ -11,8 +11,11 @@ I would like this to bride to tabletop play easily. Either by playing on a scree
 
 I AM NOT TRYING TO BUILD A COMMERCIAL PRODUCT HERE. JUST THINKING OF COMPILING A LITTLE SANDBOX TO TELL STORIES WITH SOME FRIENDS.**
 
-URPG isn't bad.
-https://assetstore.unity.com/packages/templates/systems/urpg-rpg-engine-95016
+UMMORPG is pretty cool
+https://assetstore.unity.com/packages/templates/systems/ummorpg-remastered-mmorpg-engine-159401
+
+UMMORPG has a DM extension that I haven't tried. Looks like it might be alright.
+https://assetstore.unity.com/packages/tools/integration/game-master-tool-extended-for-ummorpg-190049
 
 RPG builder is pretty cool
 https://assetstore.unity.com/packages/tools/game-toolkits/rpg-builder-177657?aid=1011liTo7&utm_source=thmsv&utm_campaign=RPGBuilder
