@@ -7,9 +7,9 @@ I have a LOT of existing Unity3D assets. I am not quite sure what I want to do f
 
 I would like this to bride to tabletop play easily. Either by playing on a screen set on a table or with a projector pointed at a table with a white tablecloth and a webcam maybe but also that should be required so people could join from their phone or computer or whatever.
 
-**I dont intend for this to be a full on intensive thing. I figure it's something fun to hack on and I'm pretty sure I can get a reasonable system slapped together without much effort. I'll share the sources with y'all and stuff and we can fiddle around with it. I would like the keep the experiment light, fun, and preferably pretty stupid. 
+**I dont intend for this to be a full on intensive thing. I figure it's something fun to hack on and I'm pretty sure I can get a reasonable system slapped together without much effort. I'll share the sources with y'all and stuff and we can fiddle around with it. I would like the keep the experiment light, fun, and preferably pretty stupid.** 
 
-I AM NOT TRYING TO BUILD A COMMERCIAL PRODUCT HERE. JUST THINKING OF COMPILING A LITTLE SANDBOX TO TELL STORIES WITH SOME FRIENDS.**
+**I AM NOT TRYING TO BUILD A COMMERCIAL PRODUCT HERE. JUST THINKING OF COMPILING A LITTLE SANDBOX TO TELL STORIES WITH SOME FRIENDS.**
 
 UMMORPG is pretty cool
 https://assetstore.unity.com/packages/templates/systems/ummorpg-remastered-mmorpg-engine-159401
