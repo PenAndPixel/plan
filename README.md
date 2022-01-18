@@ -7,7 +7,9 @@ I have a LOT of existing Unity3D assets. I am not quite sure what I want to do f
 
 I would like this to bride to tabletop play easily. Either by playing on a screen set on a table or with a projector pointed at a table with a white tablecloth and a webcam maybe but also that should be required so people could join from their phone or computer or whatever.
 
-**I dont intend for this to be a full on intensive thing. I figure it's something fun to hack on and I'm pretty sure I can get a reasonable system slapped together without much effort. I'll share the sources with y'all and stuff and we can fiddle around with it. I would like the keep the experiment light, fun, and preferably pretty stupid. I AM NOT TRYING TO BUILD A COMMERCIAL PRODUCT HERE. JUST THINKING OF COMPILING A LITTLE SANDBOX TO TELL STORIES WITH SOME FRIENDS.**
+**I dont intend for this to be a full on intensive thing. I figure it's something fun to hack on and I'm pretty sure I can get a reasonable system slapped together without much effort. I'll share the sources with y'all and stuff and we can fiddle around with it. I would like the keep the experiment light, fun, and preferably pretty stupid. 
+
+I AM NOT TRYING TO BUILD A COMMERCIAL PRODUCT HERE. JUST THINKING OF COMPILING A LITTLE SANDBOX TO TELL STORIES WITH SOME FRIENDS.**
 
 URPG isn't bad.
 https://assetstore.unity.com/packages/templates/systems/urpg-rpg-engine-95016
@@ -26,8 +28,8 @@ https://assetstore.unity.com/packages/tools/utilities/procedural-generation-grid
 Gia Pro 2021 - Generate outdoor terrain and worlds
 https://assetstore.unity.com/packages/tools/terrain/gaia-pro-2021-terrain-scene-generator-193476
 
-Charactor Creator 3 
-I have a license for this thing. It's crazy. I haven't used it much but it's a good place to start if we care about 3d?
+Charactor Creator 3 - https://www.reallusion.com/character-creator/
+I have a license for this thing. It's crazy. I haven't used it much but it's a good place to start if we care about 3d? I'll make you a character. It might be crappy or weird, but I'll make you a character and you can use it in the game or 3D print it as a mini.
 
 
 and MUCH MUCH MORE. I don't have time to list it all now. We can talk about it more if people are interested and hop on the Discord. I just wanted to get a place to put data and a chat server set up to guage people's interest.
