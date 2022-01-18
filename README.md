@@ -83,5 +83,10 @@ Blue Sky Crazy Ideas
   - https://book.keybase.io/guides/proof-integration-guide
 * Dump generated worlds and dungeons to GIS tiles 
   - Simple web based map and adventure editor using existing browser map tools
+  - This thing this guy just tweeted might be a good place to start. Maybe I don't need Unity at all? I dunno. Neat! Could be useful for campaign editor. The prodcedural rules are great. I will definitely use this even if it's just to steal ideas from it.
+  - https://codesandbox.io/embed/hexterrain-l9i5u
+  - https://twitter.com/CantBeFaraz/status/1480976569023844357
+  - https://stavridisc.gumroad.com/l/hexagona
+  - 
 
 Cheers!
